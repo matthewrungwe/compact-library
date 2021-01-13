@@ -1,0 +1,20 @@
+{
+  "name": "compact-library",
+  "version": "1.0.0",
+  "description": "Compact is a library created to carry a wide range of algoritnms, modules and functions that solve day to day computtaions.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewrungwe/compact-library.git"
+  },
+  "author": "Matthew Rungwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewrungwe/compact-library/issues"
+  },
+  "homepage": "https://github.com/matthewrungwe/compact-library#readme"
+}
