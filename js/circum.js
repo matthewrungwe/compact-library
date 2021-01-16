@@ -1,3 +1,4 @@
+// Function to calculate circumference of a circle.
 const circum = (radius) => {
     const pi = 3.142;
 
